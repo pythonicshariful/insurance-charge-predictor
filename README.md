@@ -80,18 +80,12 @@ Enter details like Age, BMI, Smoker, etc. → Get predicted charges 🎉
 ---
 
 ## 📸 Example UI
-
-To add a screenshot, save your screenshot (e.g., `screenshot.png`) inside the repo folder and add this line in README:
-
-```markdown
 ![App Screenshot](screenshot.png)
-```
-
 ---
 
-## 🎥 Demo Video
+## 🎥 Tutorial Video
 
-Check the full demo on YouTube: [Watch Here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+Check the full dtutorial on YouTube: [Watch Here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
