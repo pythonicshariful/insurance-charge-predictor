@@ -85,7 +85,8 @@ Enter details like Age, BMI, Smoker, etc. → Get predicted charges 🎉
 
 ## 🎥 Tutorial Video
 
-Check the full dtutorial on YouTube: [Watch Here](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the tutorial](https://img.youtube.com/vi/eqWBtlbKYj0/maxresdefault.jpg)](https://youtu.be/eqWBtlbKYj0)
+
 
 ---
 
@@ -105,5 +106,5 @@ This project is licensed under the MIT License.
 
 ---
 
-👨‍💻 **Author:** [Your Name](https://github.com/pythonicshariful)  
+👨‍💻 **Author:** [Shariful Islam](https://github.com/pythonicshariful)  
 🚀 Happy Coding!
